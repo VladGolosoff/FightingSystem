@@ -1,0 +1,15 @@
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/bin/Debug/net8.0/FightingSystem
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/bin/Debug/net8.0/FightingSystem.deps.json
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/bin/Debug/net8.0/FightingSystem.runtimeconfig.json
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/bin/Debug/net8.0/FightingSystem.dll
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/bin/Debug/net8.0/FightingSystem.pdb
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/obj/Debug/net8.0/FightingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/obj/Debug/net8.0/FightingSystem.AssemblyInfoInputs.cache
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/obj/Debug/net8.0/FightingSystem.AssemblyInfo.cs
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/obj/Debug/net8.0/FightingSystem.csproj.CoreCompileInputs.cache
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/obj/Debug/net8.0/FightingSystem.sourcelink.json
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/obj/Debug/net8.0/FightingSystem.dll
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/obj/Debug/net8.0/refint/FightingSystem.dll
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/obj/Debug/net8.0/FightingSystem.pdb
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/obj/Debug/net8.0/FightingSystem.genruntimeconfig.cache
+/Users/vladislavgolosov/Desktop/C#/FightingSystem/FightingSystem/obj/Debug/net8.0/ref/FightingSystem.dll
